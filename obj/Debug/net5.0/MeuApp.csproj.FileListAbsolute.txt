@@ -14,3 +14,19 @@ C:\Users\jonathan.abreu\Documents\Estudos\MeuApp\obj\Debug\net5.0\MeuApp.dll
 C:\Users\jonathan.abreu\Documents\Estudos\MeuApp\obj\Debug\net5.0\ref\MeuApp.dll
 C:\Users\jonathan.abreu\Documents\Estudos\MeuApp\obj\Debug\net5.0\MeuApp.pdb
 C:\Users\jonathan.abreu\Documents\Estudos\MeuApp\obj\Debug\net5.0\MeuApp.genruntimeconfig.cache
+D:\Estudos\Balta\Fundamentos C#\MeuApp\bin\Debug\net5.0\MeuApp.exe
+D:\Estudos\Balta\Fundamentos C#\MeuApp\bin\Debug\net5.0\MeuApp.deps.json
+D:\Estudos\Balta\Fundamentos C#\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.json
+D:\Estudos\Balta\Fundamentos C#\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.dev.json
+D:\Estudos\Balta\Fundamentos C#\MeuApp\bin\Debug\net5.0\MeuApp.dll
+D:\Estudos\Balta\Fundamentos C#\MeuApp\bin\Debug\net5.0\MeuApp.pdb
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.csproj.AssemblyReference.cache
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfoInputs.cache
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfo.cs
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.csproj.CoreCompileInputs.cache
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.dll
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\refint\MeuApp.dll
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.pdb
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\MeuApp.genruntimeconfig.cache
+D:\Estudos\Balta\Fundamentos C#\MeuApp\obj\Debug\net5.0\ref\MeuApp.dll

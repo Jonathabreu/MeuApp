@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jonathan.abreu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jonat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonathan.abreu\\Documents\\Estudos\\MeuApp\\MeuApp.csproj",
+      "projectUniqueName": "D:\\Estudos\\Balta\\FundamentosSharp\\.Net\\MeuApp\\MeuApp.csproj",
       "projectName": "MeuApp",
-      "projectPath": "C:\\Users\\jonathan.abreu\\Documents\\Estudos\\MeuApp\\MeuApp.csproj",
-      "packagesPath": "C:\\Users\\jonathan.abreu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonathan.abreu\\Documents\\Estudos\\MeuApp\\obj\\",
+      "projectPath": "D:\\Estudos\\Balta\\FundamentosSharp\\.Net\\MeuApp\\MeuApp.csproj",
+      "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+      "outputPath": "D:\\Estudos\\Balta\\FundamentosSharp\\.Net\\MeuApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jonathan.abreu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
